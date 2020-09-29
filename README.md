@@ -2,6 +2,8 @@
 
 > Command Line Interface Template
 
+__CREATOR: [0xKakashi](https://github.com/0xkakashi)__
+
 ---
 
 __DOCUMENTATION__
