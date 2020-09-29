@@ -1,0 +1,27 @@
+{
+  "name": "cli-boilerplate",
+  "version": "1.0.0",
+  "description": "Command Line Interface Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xkakashi/cli-boilerplate.git"
+  },
+  "keywords": [
+    "cli",
+    "command-line-interface",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Kakashi <kakashi.crypto@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "dotenv": "^8.2.0"
+  }
+}
