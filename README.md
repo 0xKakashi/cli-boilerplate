@@ -18,6 +18,7 @@ __PACKAGES__
 * [chalk](https://npmjs.com/package/chalk)
 * [commander](https://npmjs.com/package/commander)
 * [dotenv](https://npmjs.com/package/dotenv)
+* [jest](https://jestjs.io/)
 
 ---
 
