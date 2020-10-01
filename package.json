@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Command Line Interface Template",
   "main": "index.js",
+  "engines" : { 
+    "node" : ">=12.18.0"
+  },
   "bin": {
     "cli": "./lib/cli.js"
   },
