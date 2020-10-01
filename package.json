@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "Command Line Interface Template",
   "main": "index.js",
-  "scripts": {
-    "test": "jest test/*.test.js"
+  "bin": {
+    "cli": "./lib/cli.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/0xkakashi/cli-boilerplate.git"
+  },
+  "scripts": {
+    "test": "jest ./test/*.test.js",
+    "cli": "node ./lib/cli.js"
   },
   "keywords": [
     "cli",
